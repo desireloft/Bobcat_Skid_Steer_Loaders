@@ -6,7 +6,7 @@ This repository showcases an **ongoing** Bobcat Skid Steer Loader assembly desig
 
 ## Project Status
 
-**Note**: This project is actively in development. New parts, drawings, and STEP files are uploaded as they are finalized locally. Check back for updates as the design progresses toward completion. Contributions or feedback are welcome via [GitHub Issues](https://github.com/desireloft/Bobcat_Skid_Steer/issues).
+**Note**: This project is actively in development. New parts, drawings, and STEP files are uploaded as they are finalized locally. Check back for updates as the design progresses toward completion. Contributions or feedback are welcome via [GitHub Issues](https://github.com/desireloft/Bobcat_Skid_Steer_Loaders/issues).
 
 ## Project Details
 
