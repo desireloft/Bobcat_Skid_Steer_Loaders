@@ -35,7 +35,7 @@ Some components of the skid steer loader assembly are:
    - A critical component for lifting and tilting the bucket, designed with clearance fit for smooth rod motion.
    - Includes a cylinder case and rod, optimized for high-pressure operation.
 5. **Skid Steer Assembly**:
-   - The complete assembly integrating all components with mates for realistic motion (e.g., lift arm pivot, bucket tilt).
+   - The complete assembly integrating all components with mates for realistic motion (e.g., boom, bucket tilt).
    - Features an **exploded view** in the technical drawing to illustrate assembly sequence.
 
 ### Technical Drawings
@@ -45,13 +45,13 @@ Some components of the skid steer loader assembly are:
   - Include dimensions, **GD&T** annotations, and clearance fit specifications for moving parts (e.g., hydraulic rod).
   - Welding symbols specify joint types (e.g., fillet welds for frame) per AWS standards.
 - **Assembly Drawing**:
-  - Comprehensive drawing for `SKID_STEER_ASSY.SLDASM` with an exploded view.
+  - Comprehensive drawing for `SKID STEER ASSEMBLY` with an exploded view.
   - Includes a **Bill of Materials (BOM)** listing all components, including standard fasteners and welded sub-assemblies.
 - **PDF Exports**:
-  - All drawings are exported as PDFs for easy sharing and review (located in the `drawings/` folder).
+  - All drawings are exported as PDFs for easy sharing and review (located in the `PDF/` folder).
 
 ### STEP Files
 
-- STEP files (`.stp`) are provided for all parts and the assembly (`SKID_STEER_ASSY.stp`) to enable:
-  - Interoperability with other CAD software (e.g., Fusion 360, FreeCAD).
-  - Compatibility with CNC machining, sheet metal fabrication, or welding processes.
+- STEP files (`.stp`) are provided for all parts and the skid steer assembly to enable:
+  - Interoperability with other CAD software (e.g., Fusion 360, etc.).
+  - Compatibility with CNC machining, fabrication, or welding processes.
